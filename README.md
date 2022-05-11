@@ -2,6 +2,11 @@
 
 I was born with no limbs yet I aim daily to be a better version of myself especially in coding. I love to continue upgrading myself and currently working on increasing my potential in several coding languages. A full stack developer is my goal for the year 2022. let's do it😎
 
+### In my free time🕑:
+🎮 - I love gaming
+🌞 - I love swimming
+👾 - I love listening to music
+
 ![Nahoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-Nahoul&hide=contribs,issues&show_icons=true&theme=merko)
 
 ### Connect with me🌎: 
